@@ -1,0 +1,15 @@
+{
+  "client_id": "https://kandlclark.github.io/recipe-hub-oauth/client-metadata.json",
+  "client_name": "Recipe Hub",
+  "client_uri": "https://script.google.com/macros/s/AKfycbxc_j0Y-UDBU1O3pZe1KdaOtEJQmSdBB6YQzECCHZs-5TvnJgxASPPrCekE5esvH8b02A/exec",
+  "redirect_uris": [
+    "https://script.google.com/macros/s/AKfycbxc_j0Y-UDBU1O3pZe1KdaOtEJQmSdBB6YQzECCHZs-5TvnJgxASPPrCekE5esvH8b02A/exec"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
